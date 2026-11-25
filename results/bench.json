@@ -1,0 +1,4 @@
+{"synthetic": true, "frames": 5000, "camera": "1280x720 f=1000px ipd=63mm",
+ "noise_free": {"dist_mae_cm": 0.0000, "yaw_mae_deg": 0.0000, "pitch_mae_deg": 0.0000},
+ "noisy": {"landmark_noise_px": 0.5, "vision_angle_noise_deg": 2, "dist_mae_cm": 0.3972, "yaw_mae_deg": 1.0194, "pitch_mae_deg": 1.0050},
+ "estimate_pose_us_per_frame": 0.2192, "sink": 0}
